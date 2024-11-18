@@ -39,7 +39,9 @@ Clear-Host
 Write-Host "";
 Write-Host "";
 Write-Host -ForegroundColor Red "   ======================================================================================================";
-Write-Host -ForegroundColor Blue "                                           NSC Screenshare                                              ";
+
+Write-Host -ForegroundColor Blue "                                            NSC Screenshare                                             ";
+
 Write-Host -ForegroundColor Red "   ======================================================================================================";
 Write-Host "";
 Write-Host -ForegroundColor Blue "   Made By netunw - https://discord.gg/Z5R2rsTFdm";
